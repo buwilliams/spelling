@@ -18,8 +18,8 @@ for school.
 
 For all these commands you need to open a terminal:
 - Use default settings: `ruby spelling.rb`
-- Specifiy words: `ruby spelling.rb --words=words/02-week.txt`
-- Skip Intro (recommended after first day of practice): `ruby spelling.rb --words=words/02-week.txt --skip-intro=true`
+- Specifiy words: `ruby spelling.rb --words=words/01-week.txt`
+- Skip Intro (recommended after first day of practice): `ruby spelling.rb --words=words/01-week.txt --skip-intro=true`
 
 ## Install Spelling
 
