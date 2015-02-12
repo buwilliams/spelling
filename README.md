@@ -16,6 +16,21 @@ for school.
 
 ## Usage
 
+For all these commands you need to open a terminal:
 - Use default settings: `ruby spelling.rb`
 - Specifiy words: `ruby spelling.rb --words=words/02-week.txt`
 - Skip Intro (recommended after first day of practice): `ruby spelling.rb --words=words/02-week.txt --skip-intro=true`
+
+## Installation
+
+*Install Required Software*
+
+#. Install [homebrew](http://brew.sh/)
+#. `brew install ruby`
+#. `brew install git`
+
+*Install Spelling*
+
+#. `git clone https://github.com/buwilliams/spelling.git`
+#. `cd spelling`
+#. `ruby spelling.rb --words=words/01-week.txt`
