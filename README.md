@@ -25,12 +25,12 @@ For all these commands you need to open a terminal:
 
 *Install Required Software*
 
-#. Install [homebrew](http://brew.sh/)
-#. `brew install ruby`
-#. `brew install git`
+# Install [homebrew](http://brew.sh/)
+# `brew install ruby`
+# `brew install git`
 
 *Install Spelling*
 
-#. `git clone https://github.com/buwilliams/spelling.git`
-#. `cd spelling`
-#. `ruby spelling.rb --words=words/01-week.txt`
+# `git clone https://github.com/buwilliams/spelling.git`
+# `cd spelling`
+# `ruby spelling.rb --words=words/01-week.txt`
