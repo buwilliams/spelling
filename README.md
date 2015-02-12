@@ -13,6 +13,7 @@ for school.
 - Makes it easier on us (my wife and I) to work on spelling with our daughter
 - Some of the speaking scripts are customizable
 - Ability to skip introductory scripts
+- Helps teach kids how to use the keyboard by typing keys and pressing enter or spacebar.
 
 ## Usage
 
