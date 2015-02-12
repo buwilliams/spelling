@@ -12,3 +12,10 @@ for school.
 - Only repeats words that are missed
 - Makes it easier on us (my wife and I) to work on spelling with our daughter
 - Some of the speaking scripts are customizable
+- Ability to skip introductory scripts
+
+## Usage
+
+- Use default settings: `ruby spelling.rb`
+- Specifiy words: `ruby spelling.rb --words=words/02-week.txt`
+- Skip Intro (recommended after first day of practice): `ruby spelling.rb --words=words/02-week.txt --skip-intro=true`
