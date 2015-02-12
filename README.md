@@ -23,13 +23,13 @@ For all these commands you need to open a terminal:
 
 ## Installation
 
-*Install Required Software*
+__Install Required Software__
 
 # Install [homebrew](http://brew.sh/)
 # `brew install ruby`
 # `brew install git`
 
-*Install Spelling*
+__Install Spelling__
 
 # `git clone https://github.com/buwilliams/spelling.git`
 # `cd spelling`
