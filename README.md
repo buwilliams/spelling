@@ -34,3 +34,10 @@ __Install Spelling__
 1. `git clone https://github.com/buwilliams/spelling.git`
 1. `cd spelling`
 1. `ruby spelling.rb --words=words/01-week.txt`
+
+## Roadmap
+
+- Expand read_file() to include the ability to substitute strings based on config file.
+- Expand read_file() to include pause
+- Expand read_file() to execute functions
+- Expand read_file() to say words and spell words
