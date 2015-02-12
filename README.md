@@ -21,16 +21,16 @@ For all these commands you need to open a terminal:
 - Specifiy words: `ruby spelling.rb --words=words/02-week.txt`
 - Skip Intro (recommended after first day of practice): `ruby spelling.rb --words=words/02-week.txt --skip-intro=true`
 
-## Installation
+## Install Spelling
 
 __Install Required Software__
 
-# Install [homebrew](http://brew.sh/)
-# `brew install ruby`
-# `brew install git`
+1. Install [homebrew](http://brew.sh/)
+1. `brew install ruby`
+1. `brew install git`
 
 __Install Spelling__
 
-# `git clone https://github.com/buwilliams/spelling.git`
-# `cd spelling`
-# `ruby spelling.rb --words=words/01-week.txt`
+1. `git clone https://github.com/buwilliams/spelling.git`
+1. `cd spelling`
+1. `ruby spelling.rb --words=words/01-week.txt`
