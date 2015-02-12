@@ -11,3 +11,4 @@ for school.
 - Very simple interface for kids
 - Only repeats words that are missed
 - Makes it easier on us (my wife and I) to work on spelling with our daughter
+- Some of the speaking scripts are customizable

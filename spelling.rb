@@ -121,8 +121,7 @@ def main()
             clear()
         end
     end
-    say("You spelled all the words this week correctly! Nice work!")
-    say("Time to go play. Goodbye!")
+    say_file("scripts/04-done.txt")
 
 end
 
